@@ -75,23 +75,15 @@ Steps:
     i. Create a bash script called editGenome.sh         ---Done---
     
     ii. Using those files, write a script that will insert the letter A right before the NGG site. 
-          b. Output to a new file called exomename_postcrispr.fasta 
+          b. Output to a new file called exomename_postcrispr.fasta  ---Done---
 
 6. 
     i. Create a python script called exomeReport.py         ---Done---
     
     ii. Create a single report that summarizes the findings. 
-        a. It should be a text file that lists 
-            i. the name of the discoverer of the organism, 
-            ii.the diameter, 
-            iii. the code name and the environment it came from. 
-            iv. include how many genes the organism has in common with all of the other organisms, 
-            v. and which genes are unique to that organism.
-            
-      Note: 
-          -You are only comparing that organism against the other organisms of the same cohort (20-30mm in diameter). 
-          -You are summarizing the motif-containing exomes with just the CRISPR-ready genes, 
-                - using the exomenames_precrispr.fasta 
-                    (or exomenames_postcrispr.fasta since the headers should be identical between those two files)
-          -There may not be any genes in common in that entire cohort. 
-
+        a. It should be a text file that lists  ---Done---
+            i. the name of the discoverer of the organism,  ---Done---
+            ii.the diameter,  ---Done---
+            iii. the code name and the environment it came from.  ---Done---
+            iv. include how many genes the organism has in common with all of the other organisms,  ---Done---
+            v. and which genes are unique to that organism.---Done---
