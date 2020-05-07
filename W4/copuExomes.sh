@@ -4,8 +4,10 @@
 #Creater Aldo Amaya
 #Purpose: Take clinical data and identiy samples that are betweent 20 and 30 mm long (inclusive) and have been sequenced,
 
+All_exomes_ID
 
 cat $1 >sourceL   
+mkdir>exomes
 #cat clinical_data.txt >sourceL   
 #Purpose 
   #Read in the clinical data file and remove all spaces from entries with spaces and save them as new file Formatted_clinical_data.txt

@@ -1,6 +1,7 @@
 #This script will ensure we complete all objectives.
-shh aamaya@ec2-18-224-15-142.us-east-2.compute.amazonaws.com
-scp copuExomes.sh aaamaya@ec2-18-224-15-142.us-east-2.compute.amazonaws.com
+
+ssh amaya@ec2-18-224-15-142.us-east-2.compute.amazonaws.com
+scp copuExomes.sh aaamaya@ec2-18-224-15-142.us-east-2.compute.amazonaws.com/home/amaya/week4
 
 
 
@@ -62,12 +63,12 @@ Steps:
   i. Create a bash script called identifyCrisprSite.sh         ---Done---
 
   ii. For each gene inside the exomename_topmotifs.fasta files, 
-          a. identify a suitable CRISPR site.
-          b. Find sequences that contain “NGG”, where “N” can be any base, that has at least 20 basepairs upstream.
+          a. identify a suitable CRISPR site. ---Done---
+          b. Find sequences that contain “NGG”, where “N” can be any base, that has at least 20 basepairs upstream. ---Done---
 
                   Example of upstream: ATGAACGTCTGTAAGAACTGCGGATCTGTCA 
                   (Everything left of CGG is upstream of the DNA) 
-          c. Output suitable candidates (headers and sequences) to a new file called exomenames_precrispr.fasta
+          c. Output suitable candidates (headers and sequences) to a new file called exomenames_precrispr.fasta ---Done---
           
 5. 
 

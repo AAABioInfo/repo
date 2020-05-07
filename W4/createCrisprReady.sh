@@ -1,6 +1,12 @@
 #!/bin/bash
-# input 1: $1= motif_list.txt $2=All_exomes
-# Output: exomename_topmotifs.fasta- this iwll do the top 3
+# input 1: $1= motif_list.txt $2=All_exomes (must be present not called for)
+# Output: Output: dir(species_name)
+                   # files:
+                   #  species_name_motif_count_All.txt
+                   #   species_name_count_TOP3
+                   #   species_topMotif1_count.fa
+                   #   species_topMotif2_count.fa
+                   #   species_topMotif3_count.fa
 #Creater Aldo Amaya
 #Purpose: Identify the 3 highest occurring motifs in each exome inside the exomes folder. 
 
@@ -14,13 +20,13 @@ TargetSeq=$(echo All_exomes/)
 
 #create a list of all exomes to test and their names to add their extensions, without calling fasta file 
 cd $TargetSeq
-ls *fasta > All_exomes_Test 
+ls *.fasta > All_exomes_Test 
 sed 's/.fasta//g' All_exomes_Test>All_exomes_ID
 cd ..
 cat motif_list.txt>sourceL     
 mv sourceL cd $TargetSeq 
 #set parameters for loops 
-
+rm sourceL
 cd $TargetSeq
 
 lenM=$(sort sourceL| uniq|wc -l)
@@ -84,14 +90,13 @@ let i=i+1
 
 done 
 
-
-
 #
 echo "All clear, have a nice day"
 
 #clean up
 
-rm All_exomes_Test All_exomes_ID sourceL Lfasta.fa 
-
+rm All_exomes_Test sourceL Lfasta.fa 
 mkdir processed_fasta
-mv *fasta cd processed_fasta
+mv *.fasta cd processed_fasta
+
+tput clear
