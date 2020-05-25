@@ -1,0 +1,8 @@
+Discoverer	Location	Diamater(mm)	Environment	Status	code_name
+Forness	NewJersey	30	Sewage	Sequenced	dromedary
+Landey	Florida	30	River	Sequenced	gorilla
+Rivet	Sweden	26	Swamp	Sequenced	chicken
+Vanderburg	Sweden	26	River	Sequenced	fox
+Gorham	NewJersey	24	Sewage	Sequenced	goat
+Mccafferty	Florida	21	Sewage	Sequenced	gopher
+Kesner	NewJersey	28	Sewage	Sequenced	lamb

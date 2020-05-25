@@ -1,0 +1,56 @@
+
+Organism: chicken
+Discovered by: Rivet
+Has a diameter(mm) of: 26
+Found at: Swamp
+In this Location: Sweden
+The following genes unique to only itself: ['>gene8', '>gene153', '>gene206', '>gene224', '>gene262', '>gene307', '>gene454', '>gene77', '>gene140', '>gene297', '>gene355', '>gene439', '>gene237', '>gene325']
+The following genes ubiquitous with all species in this list: 0
+
+Organism: dromedary
+Discovered by: Forness
+Has a diameter(mm) of: 30
+Found at: Sewage
+In this Location: NewJersey
+The following genes unique to only itself: ['>gene100', '>gene102', '>gene107', '>gene234', '>gene307', '>gene332', '>gene361', '>gene371', '>gene410', '>gene431', '>gene162', '>gene235', '>gene335', '>gene406', '>gene37', '>gene45', '>gene85', '>gene323', '>gene390', '>gene404', '>gene416']
+The following genes ubiquitous with all species in this list: 0
+
+Organism: fox
+Discovered by: Vanderburg
+Has a diameter(mm) of: 26
+Found at: River
+In this Location: Sweden
+The following genes unique to only itself: ['>gene142', '>gene180', '>gene234', '>gene427', '>gene447', '>gene6', '>gene46', '>gene98', '>gene305', '>gene316', '>gene322', '>gene461']
+The following genes ubiquitous with all species in this list: 0
+
+Organism: goat
+Discovered by: Gorham
+Has a diameter(mm) of: 24
+Found at: Sewage
+In this Location: NewJersey
+The following genes unique to only itself: ['>gene67', '>gene165', '>gene187', '>gene196', '>gene360', '>gene145', '>gene234', '>gene268', '>gene291', '>gene317', '>gene328', '>gene333', '>gene404', '>gene416', '>gene142', '>gene198', '>gene307']
+The following genes ubiquitous with all species in this list: 0
+
+Organism: gopher
+Discovered by: Mccafferty
+Has a diameter(mm) of: 21
+Found at: Sewage
+In this Location: Florida
+The following genes unique to only itself: ['>gene60', '>gene114', '>gene190', '>gene445', '>gene454', '>gene485', '>gene153', '>gene249', '>gene276', '>gene286', '>gene347', '>gene383', '>gene471', '>gene149', '>gene186', '>gene322', '>gene328', '>gene369', '>gene421', '>gene490']
+The following genes ubiquitous with all species in this list: 0
+
+Organism: gorilla
+Discovered by: Landey
+Has a diameter(mm) of: 30
+Found at: River
+In this Location: Florida
+The following genes unique to only itself: ['>gene74', '>gene147', '>gene153', '>gene220', '>gene266', '>gene321', '>gene411', '>gene474', '>gene20', '>gene70', '>gene114', '>gene195', '>gene239', '>gene404', '>gene499', '>gene130', '>gene143', '>gene146', '>gene271', '>gene286', '>gene347', '>gene378', '>gene398', '>gene457']
+The following genes ubiquitous with all species in this list: 0
+
+Organism: lamb
+Discovered by: Kesner
+Has a diameter(mm) of: 28
+Found at: Sewage
+In this Location: NewJersey
+The following genes unique to only itself: ['>gene41', '>gene82', '>gene86', '>gene121', '>gene219', '>gene409', '>gene20', '>gene25', '>gene68', '>gene122', '>gene134', '>gene199', '>gene428', '>gene8', '>gene153', '>gene377']
+The following genes ubiquitous with all species in this list: 0
