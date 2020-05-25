@@ -1,15 +1,17 @@
 #This script will ensure we complete all objectives.
 
 ssh amaya@ec2-18-224-15-142.us-east-2.compute.amazonaws.com
-scp copuExomes.sh aaamaya@ec2-18-224-15-142.us-east-2.compute.amazonaws.com/home/amaya/week4
+scp copyExomes.sh aaamaya@ec2-18-224-15-142.us-east-2.compute.amazonaws.com/home/amaya/week4
 
 
 
-copyExomes.sh     ./copyExomes.sh (input= clinical_data.txt) 
-                  Output cd/exomes/Produces Sequenced_20r30mm.txt
+
+copyExomes.sh     ./copyExomes.sh (input= clinical_data.txt)    # Name was corrected, in addition 
+                  Output cd/exomes/Sequenced_20r30mm.txt
+                         cd/All_exomes_Test   # This will limit the amount of data that needs to be processed line 24-32 were edited to include this
                   
-createCrisprReady.sh
-                  ./copyExomes.sh (input= motif_list.txt)     
+createCrisprReady.sh 
+                  ./createCrisprReady.sh (input= motif_list.txt) (input= All_exomes/) (input= $All_exomes_Test)     
                   Output: dir(species_name)
                     files:
                       species_name_motif_count_All.txt
@@ -19,10 +21,14 @@ createCrisprReady.sh
                       species_topMotif3_count.fa
                           
 identifyCrisprSite.sh
+                      ./identifyCrisprSite.sh (input=All_exomes)
 editGenome.sh
+                      ./editGenome.sh (input=All_exomes) (input=exomes)
+			(at the end of this script it moves all relevant files from All_exomes/ to exomes/
 exomeReport.py
-
-
+		Must run inside exomes/ (this was created by the copyExomes.sh)
+		run:
+			python3 (input=Sequenced_20r30mm.txt) (input=must run pwd and copied for )	
 
 
 
