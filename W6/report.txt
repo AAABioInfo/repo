@@ -1,0 +1,740 @@
+Sample: Abbey
+Color: Black
+Total Reads: 699
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 48
+
+Sample: Adelaide
+Color: Orange
+Total Reads: 548
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 43
+
+Sample: Alana
+Color: Black
+Total Reads: 581
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 41
+
+Sample: Arabella
+Color: Black
+Total Reads: 519
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 58
+
+Sample: Arianna
+Color: Orange
+Total Reads: 301
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 45
+
+Sample: Bobby
+Color: Black
+Total Reads: 387
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 56
+
+Sample: Brayden
+Color: Black
+Total Reads: 566
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 35
+
+Sample: Bridget
+Color: Orange
+Total Reads: 600
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 48
+
+Sample: Bruce
+Color: Orange
+Total Reads: 547
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 57
+
+Sample: Byron
+Color: Orange
+Total Reads: 431
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 44
+
+Sample: Cali
+Color: Orange
+Total Reads: 467
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 55
+
+Sample: Camilla
+Color: Orange
+Total Reads: 441
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 51
+
+Sample: Case
+Color: Black
+Total Reads: 388
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 47
+
+Sample: Cason
+Color: Black
+Total Reads: 588
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 63
+
+Sample: Damien
+Color: Black
+Total Reads: 570
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 38
+
+Sample: Dania
+Color: Black
+Total Reads: 626
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 54
+
+Sample: Dereon
+Color: Orange
+Total Reads: 322
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 40
+
+Sample: Destiney
+Color: Orange
+Total Reads: 683
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 46
+
+Sample: Dominik
+Color: Black
+Total Reads: 381
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 54
+
+Sample: Gabrielle
+Color: Orange
+Total Reads: 334
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 52
+
+Sample: Giancarlo
+Color: Orange
+Total Reads: 499
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 61
+
+Sample: Greta
+Color: Black
+Total Reads: 315
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 43
+
+Sample: Israel
+Color: Orange
+Total Reads: 395
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 31
+
+Sample: Javion
+Color: Orange
+Total Reads: 532
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 42
+
+Sample: Jaylen
+Color: Black
+Total Reads: 329
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 49
+
+Sample: Jazlyn
+Color: Yellow
+Total Reads: 526
+Mutant location in respect to referance: 13
+Mutation: G
+Percentage different from Wildtype: 63
+
+Sample: Jordyn
+Color: Black
+Total Reads: 464
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 41
+
+Sample: Jordyna
+Color: Yellow
+Total Reads: 305
+Mutant location in respect to referance: 13
+Mutation: G
+Percentage different from Wildtype: 46
+
+Sample: Joshua
+Color: Black
+Total Reads: 460
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 60
+
+Sample: Justus
+Color: Black
+Total Reads: 575
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 48
+
+Sample: Kamden
+Color: Orange
+Total Reads: 625
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 63
+
+Sample: Karlee
+Color: Yellow
+Total Reads: 641
+Mutant location in respect to referance: 13
+Mutation: G
+Percentage different from Wildtype: 38
+
+Sample: Kayla
+Color: Yellow
+Total Reads: 593
+Mutant location in respect to referance: 13
+Mutation: G
+Percentage different from Wildtype: 46
+
+Sample: Keaton
+Color: Green
+Total Reads: 442
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 47
+
+Sample: Kian
+Color: Green
+Total Reads: 372
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 72
+
+Sample: Kirsten
+Color: Black
+Total Reads: 313
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 29
+
+Sample: Libby
+Color: Yellow
+Total Reads: 306
+Mutant location in respect to referance: 13
+Mutation: G
+Percentage different from Wildtype: 65
+
+Sample: Lorelei
+Color: Orange
+Total Reads: 352
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 30
+
+Sample: Mariela
+Color: Yellow
+Total Reads: 523
+Mutant location in respect to referance: 13
+Mutation: G
+Percentage different from Wildtype: 69
+
+Sample: Martin
+Color: Green
+Total Reads: 588
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 51
+
+Sample: Mckayla
+Color: Green
+Total Reads: 620
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 52
+
+Sample: Mckenzie
+Color: Black
+Total Reads: 342
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 36
+
+Sample: Natalia
+Color: Green
+Total Reads: 683
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 48
+
+Sample: Santiago
+Color: Orange
+Total Reads: 671
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 52
+
+Sample: Sarai
+Color: Black
+Total Reads: 480
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 61
+
+Sample: Serena
+Color: Green
+Total Reads: 468
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 47
+
+Sample: Shelby
+Color: Yellow
+Total Reads: 466
+Mutant location in respect to referance: 13
+Mutation: G
+Percentage different from Wildtype: 44
+
+Sample: Sienna
+Color: Green
+Total Reads: 536
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 71
+
+Sample: Terry
+Color: Orange
+Total Reads: 694
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 39
+
+Sample: Tristian
+Color: Black
+Total Reads: 393
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 60
+
+Mold Color: Black
+Caused by a mutation in position: 13
+The wildtype base was: G
+The mutation base was: C
+
+Mold Color: Green
+Caused by a mutation in position: 13
+The wildtype base was: G
+The mutation base was: C
+
+Mold Color: Orange
+Caused by a mutation in position: 13
+The wildtype base was: G
+The mutation base was: C
+
+Mold Color: Yellow
+Caused by a mutation in position: 13
+The wildtype base was: C
+The mutation base was: G
+
+Sample: Abbey
+Color: Black
+Total Reads: 699
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 48
+
+Sample: Adelaide
+Color: Orange
+Total Reads: 548
+Mutant location in respect to referance: 83
+Mutation: C
+Percentage different from Wildtype: 43
+
+Sample: Alana
+Color: Black
+Total Reads: 581
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 41
+
+Sample: Arabella
+Color: Black
+Total Reads: 519
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 58
+
+Sample: Arianna
+Color: Orange
+Total Reads: 301
+Mutant location in respect to referance: 83
+Mutation: C
+Percentage different from Wildtype: 45
+
+Sample: Bobby
+Color: Black
+Total Reads: 387
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 56
+
+Sample: Brayden
+Color: Black
+Total Reads: 566
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 35
+
+Sample: Bridget
+Color: Orange
+Total Reads: 600
+Mutant location in respect to referance: 83
+Mutation: C
+Percentage different from Wildtype: 48
+
+Sample: Bruce
+Color: Orange
+Total Reads: 547
+Mutant location in respect to referance: 83
+Mutation: C
+Percentage different from Wildtype: 57
+
+Sample: Byron
+Color: Orange
+Total Reads: 431
+Mutant location in respect to referance: 83
+Mutation: C
+Percentage different from Wildtype: 44
+
+Sample: Cali
+Color: Orange
+Total Reads: 467
+Mutant location in respect to referance: 83
+Mutation: C
+Percentage different from Wildtype: 55
+
+Sample: Camilla
+Color: Orange
+Total Reads: 441
+Mutant location in respect to referance: 83
+Mutation: C
+Percentage different from Wildtype: 51
+
+Sample: Case
+Color: Black
+Total Reads: 388
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 47
+
+Sample: Cason
+Color: Black
+Total Reads: 588
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 63
+
+Sample: Damien
+Color: Black
+Total Reads: 570
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 38
+
+Sample: Dania
+Color: Black
+Total Reads: 626
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 54
+
+Sample: Dereon
+Color: Orange
+Total Reads: 322
+Mutant location in respect to referance: 83
+Mutation: C
+Percentage different from Wildtype: 40
+
+Sample: Destiney
+Color: Orange
+Total Reads: 683
+Mutant location in respect to referance: 83
+Mutation: C
+Percentage different from Wildtype: 46
+
+Sample: Dominik
+Color: Black
+Total Reads: 381
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 54
+
+Sample: Gabrielle
+Color: Orange
+Total Reads: 334
+Mutant location in respect to referance: 83
+Mutation: C
+Percentage different from Wildtype: 52
+
+Sample: Giancarlo
+Color: Orange
+Total Reads: 499
+Mutant location in respect to referance: 83
+Mutation: C
+Percentage different from Wildtype: 61
+
+Sample: Greta
+Color: Black
+Total Reads: 315
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 43
+
+Sample: Israel
+Color: Orange
+Total Reads: 395
+Mutant location in respect to referance: 83
+Mutation: C
+Percentage different from Wildtype: 31
+
+Sample: Javion
+Color: Orange
+Total Reads: 532
+Mutant location in respect to referance: 83
+Mutation: C
+Percentage different from Wildtype: 42
+
+Sample: Jaylen
+Color: Black
+Total Reads: 329
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 49
+
+Sample: Jazlyn
+Color: Yellow
+Total Reads: 526
+Mutant location in respect to referance: 120
+Mutation: G
+Percentage different from Wildtype: 63
+
+Sample: Jordyn
+Color: Black
+Total Reads: 464
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 41
+
+Sample: Jordyna
+Color: Yellow
+Total Reads: 305
+Mutant location in respect to referance: 120
+Mutation: G
+Percentage different from Wildtype: 46
+
+Sample: Joshua
+Color: Black
+Total Reads: 460
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 60
+
+Sample: Justus
+Color: Black
+Total Reads: 575
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 48
+
+Sample: Kamden
+Color: Orange
+Total Reads: 625
+Mutant location in respect to referance: 83
+Mutation: C
+Percentage different from Wildtype: 63
+
+Sample: Karlee
+Color: Yellow
+Total Reads: 641
+Mutant location in respect to referance: 120
+Mutation: G
+Percentage different from Wildtype: 38
+
+Sample: Kayla
+Color: Yellow
+Total Reads: 593
+Mutant location in respect to referance: 120
+Mutation: G
+Percentage different from Wildtype: 46
+
+Sample: Keaton
+Color: Green
+Total Reads: 442
+Mutant location in respect to referance: 134
+Mutation: C
+Percentage different from Wildtype: 47
+
+Sample: Kian
+Color: Green
+Total Reads: 372
+Mutant location in respect to referance: 134
+Mutation: C
+Percentage different from Wildtype: 72
+
+Sample: Kirsten
+Color: Black
+Total Reads: 313
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 29
+
+Sample: Libby
+Color: Yellow
+Total Reads: 306
+Mutant location in respect to referance: 120
+Mutation: G
+Percentage different from Wildtype: 65
+
+Sample: Lorelei
+Color: Orange
+Total Reads: 352
+Mutant location in respect to referance: 83
+Mutation: C
+Percentage different from Wildtype: 30
+
+Sample: Mariela
+Color: Yellow
+Total Reads: 523
+Mutant location in respect to referance: 120
+Mutation: G
+Percentage different from Wildtype: 69
+
+Sample: Martin
+Color: Green
+Total Reads: 588
+Mutant location in respect to referance: 134
+Mutation: C
+Percentage different from Wildtype: 51
+
+Sample: Mckayla
+Color: Green
+Total Reads: 620
+Mutant location in respect to referance: 134
+Mutation: C
+Percentage different from Wildtype: 52
+
+Sample: Mckenzie
+Color: Black
+Total Reads: 342
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 36
+
+Sample: Natalia
+Color: Green
+Total Reads: 683
+Mutant location in respect to referance: 134
+Mutation: C
+Percentage different from Wildtype: 48
+
+Sample: Santiago
+Color: Orange
+Total Reads: 671
+Mutant location in respect to referance: 83
+Mutation: C
+Percentage different from Wildtype: 52
+
+Sample: Sarai
+Color: Black
+Total Reads: 480
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 61
+
+Sample: Serena
+Color: Green
+Total Reads: 468
+Mutant location in respect to referance: 134
+Mutation: C
+Percentage different from Wildtype: 47
+
+Sample: Shelby
+Color: Yellow
+Total Reads: 466
+Mutant location in respect to referance: 120
+Mutation: G
+Percentage different from Wildtype: 44
+
+Sample: Sienna
+Color: Green
+Total Reads: 536
+Mutant location in respect to referance: 134
+Mutation: C
+Percentage different from Wildtype: 71
+
+Sample: Terry
+Color: Orange
+Total Reads: 694
+Mutant location in respect to referance: 83
+Mutation: C
+Percentage different from Wildtype: 39
+
+Sample: Tristian
+Color: Black
+Total Reads: 393
+Mutant location in respect to referance: 13
+Mutation: C
+Percentage different from Wildtype: 60
+
+Mold Color: Black
+Caused by a mutation in position: 13
+The wildtype base was: G
+The mutation base was: C
+
+Mold Color: Green
+Caused by a mutation in position: 134
+The wildtype base was: G
+The mutation base was: C
+
+Mold Color: Orange
+Caused by a mutation in position: 83
+The wildtype base was: G
+The mutation base was: C
+
+Mold Color: Yellow
+Caused by a mutation in position: 120
+The wildtype base was: C
+The mutation base was: G
+
