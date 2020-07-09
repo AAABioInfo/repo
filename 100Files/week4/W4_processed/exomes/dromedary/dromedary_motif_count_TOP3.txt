@@ -1,0 +1,3 @@
+dromedary TTTTTACACTTC 92
+dromedary CTTCAAAATTTT 79
+dromedary TACACTTCTACA 56
